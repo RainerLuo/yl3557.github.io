@@ -1,5 +1,2 @@
-ruby-3.0.2
-
-source 'https://rubygems.org'
-rubygems_version = '>= 3.3.22'
+rvm install "ruby-3.0.2 gem '3.3.22'"
 
