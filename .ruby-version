@@ -1,2 +1,5 @@
 ruby-3.0.2
 
+source 'https://rubygems.org'
+rubygems_version = '>= 3.3.22'
+
