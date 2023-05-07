@@ -1,5 +1,6 @@
 rvm install 3.0.2
 rvm use 3.0.2 --default
-gem update --system 3.3.22
+gem update --system=3.3.22
+
 
 
